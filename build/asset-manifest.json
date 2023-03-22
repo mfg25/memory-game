@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.a50b6ac6.css",
+    "main.js": "./static/js/main.e29570c0.js",
+    "static/media/bgcharacters.png": "./static/media/bgcharacters.76217408223435da2920.png",
+    "static/media/background.png": "./static/media/background.24e5df618bc2a113009b.png",
+    "static/media/chrollo.png": "./static/media/chrollo.02da1f489a4b2ef61474.png",
+    "static/media/kurapika.png": "./static/media/kurapika.4e7130643b4331190d52.png",
+    "static/media/killua.png": "./static/media/killua.be8375486064296b7729.png",
+    "static/media/hisoka.png": "./static/media/hisoka.c88746252ca98c3055b4.png",
+    "static/media/illumi.png": "./static/media/illumi.df20542ea9d855bac45c.png",
+    "static/media/netero.png": "./static/media/netero.e9c80366b294f7993b16.png",
+    "static/media/shizuku.png": "./static/media/shizuku.2a6fc20cb05514c3726a.png",
+    "static/media/gon.png": "./static/media/gon.d3cfefcfd57d14740096.png",
+    "static/media/leorio.png": "./static/media/leorio.1af115d8af3ed13622d3.png",
+    "static/media/feitan.png": "./static/media/feitan.a2932017f2249df625f2.png",
+    "index.html": "./index.html",
+    "main.a50b6ac6.css.map": "./static/css/main.a50b6ac6.css.map",
+    "main.e29570c0.js.map": "./static/js/main.e29570c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a50b6ac6.css",
+    "static/js/main.e29570c0.js"
+  ]
+}
