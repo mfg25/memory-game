@@ -1,0 +1,49 @@
+.character-card{
+    width: 270px;
+    height: 340px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-evenly;
+    background-color: #f5f1f1;
+    border-radius: 10px;
+    transition: 0.5s;
+    margin: 15px;
+}
+.character-card:hover{
+    cursor: pointer;
+    width: 280px;
+    height: 350px;
+    background-color: #000000;
+    color: #f5f1f1;
+}
+.character-card h3{
+    font-size: 30px;
+}
+.character-image{
+    width: 190px;
+    border: 5px solid black;
+}
+
+@media  (max-width: 640px) {
+    .character-card:hover{
+        cursor: pointer;
+        width: 150px;
+        height: 220px;
+        background-color: #f5f1f1;
+        color: black;
+    }
+    .character-card{
+        width: 150px;
+        height: 220px;
+    }
+    .character-card h3{
+        font-size: 25px;
+    }
+    .character-image{
+        width: 110px;
+    }
+    #game-container{
+        height: 100%;
+    }
+  }
